@@ -15,7 +15,7 @@ This Google Sheets project helps logistics and freight professionals optimize sh
 - Helps reduce transit time (TAT) and improves pricing accuracy  
 
 ## 📁 Files
-- `flippingChecker.gs` – Google Apps Script code for distance calculations and zone compatibility checks  
+- `distanceCalculator.gs` – Google Apps Script code for distance calculations and zone compatibility checks  
 
 ## 🚀 How to Use
 1. Make a copy of the Google Sheet (link below)  
