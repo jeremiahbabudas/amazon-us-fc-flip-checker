@@ -31,4 +31,4 @@ This Google Sheets project helps logistics and freight professionals optimize sh
 ## 📌 Notes
 - Zones and FC mappings are predefined in the sheet  
 - Flipping is only possible among FCs within the same zone  
-- Distance calculations use cached results to improve speed and reduce API calls
+- Extensively uses `IF`, `ELSE`, and `XLOOKUP` formulas within the sheet to handle logic and data mapping for smooth functionality.
