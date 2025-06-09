@@ -1,6 +1,8 @@
 # Amazon US Fulfillment Center Flipping Checker
 
-This Google Sheets project helps logistics and freight professionals optimize shipments by identifying the closest inter-flippable Amazon Fulfillment Center (FC) within the same zone from a given zip code.
+This Google Sheets project helps logistics and freight professionals optimize shipments by identifying the closest inter-flippable Amazon Fulfillment Center (FC) within the same zone from a given zip code. This tool was extensively used by the Customer Success team at Xhipment to streamline the quoting process. By automatically identifying the closest compatible Fulfillment Center (FC) instead of manually listing options, it significantly reduced the time required to provide sharper pricing to shippers. This automation helped optimize the supply chain by lowering transit times (TAT) and improving pricing accuracy, ultimately enhancing operational efficiency and customer satisfaction.
+
+
 
 ## 🔍 What It Does
 - Maps Amazon FCs to their respective zones  
