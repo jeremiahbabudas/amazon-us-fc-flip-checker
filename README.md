@@ -21,7 +21,7 @@ This Google Sheets project helps logistics and freight professionals optimize sh
 - `distanceCalculator.gs` – Google Apps Script code for distance calculations and zone compatibility checks  
 
 ## 🚀 How to Use
-1. Make a copy of the Google Sheet (link below)  
+1. Make a copy of the Google Sheet 
 2. Select the desired Amazon FC from the dropdown  
 3. Enter the shipper’s zip code  
 4. View the closest flippable FC and its distance  
