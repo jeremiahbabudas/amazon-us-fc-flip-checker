@@ -38,5 +38,7 @@ This Google Sheets project helps logistics and freight professionals optimize sh
 
 ## 📷 Screenshot
 ![FC Check 1](FC%20Check%201.png)
+
 ![FC Check 2](FC%20Check%202.png)
+
 ![FC Check 3](FC%20Check%203.png)
