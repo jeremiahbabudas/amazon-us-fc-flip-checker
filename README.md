@@ -36,7 +36,7 @@ This Google Sheets project helps logistics and freight professionals optimize sh
 - Flipping is only possible among FCs within the same zone  
 - Extensively uses `IF`, `ELSE`, and `XLOOKUP` formulas within the sheet to handle logic and data mapping for smooth functionality.
 
-## 📷 Screenshot
+## 📷 Screenshots
 ![FC Check 1](FC%20Check%202.png)
 
 ![FC Check 2](FC%20Check%201.png)
