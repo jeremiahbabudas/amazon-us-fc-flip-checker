@@ -29,9 +29,14 @@ This Google Sheets project helps logistics and freight professionals optimize sh
 ## 🛠 Tech Used
 - Google Sheets  
 - Google Apps Script  
-- Google Maps API  
+- Google Maps API
 
 ## 📌 Notes
 - Zones and FC mappings are predefined in the sheet  
 - Flipping is only possible among FCs within the same zone  
 - Extensively uses `IF`, `ELSE`, and `XLOOKUP` formulas within the sheet to handle logic and data mapping for smooth functionality.
+
+## 📷 Screenshot
+![FC Check 1](FC%20Check%201.png)
+![FC Check 2](FC%20Check%202.png)
+![FC Check 3](FC%20Check%203.png)
