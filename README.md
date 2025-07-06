@@ -37,8 +37,8 @@ This Google Sheets project helps logistics and freight professionals optimize sh
 - Extensively uses `IF`, `ELSE`, and `XLOOKUP` formulas within the sheet to handle logic and data mapping for smooth functionality.
 
 ## 📷 Screenshot
-![FC Check 1](FC%20Check%201.png)
+![FC Check 1](FC%20Check%202.png)
 
-![FC Check 2](FC%20Check%202.png)
+![FC Check 2](FC%20Check%201.png)
 
 ![FC Check 3](FC%20Check%203.png)
